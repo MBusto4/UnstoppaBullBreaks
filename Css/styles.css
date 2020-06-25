@@ -1,0 +1,317 @@
+.navigation-bar {}
+
+/* elements */
+body {
+  background-color: black !important;
+}
+
+U {
+  font-size: 5rem;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: inside;
+}
+
+p {
+  font-weight: 900;
+}
+
+h1 {
+  color: #dfdfdf;
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.pricing-row {
+  padding: 30px;
+}
+
+.col-12 {
+  margin-top: 75px;
+}
+
+.mySlides {
+  border-radius: 10%;
+  padding-top: 25px;
+  text-align: center;
+  width: 750px;
+  height: 786px;
+}
+
+.big_hits1 {
+  padding-left: 30%;
+  color: White;
+  margin-top: 0px !important;
+  padding-top: 0;
+}
+
+.w3-right {
+  position: relative;
+  left: 42%;
+  width: 100px;
+  height: 75px;
+  background-color: #4ef037;
+  color: white;
+}
+
+.w3-left {
+  width: 100px;
+  height: 75px;
+  background-color: #4ef037;
+  color: white;
+}
+
+.big-hits-h1 {
+  font-family: 'Work Sans', sans-serif;
+  color: #4ef037;
+  margin-left: 36%;
+  margin-top: 50px;
+  font-weight: 900;
+  background-color: #393e46;
+  width: 470px;
+  text-align: center;
+  border-radius: 10%;
+  position: relative;
+  top: 70px;
+}
+
+.what-do-we-offer {
+  padding: 50px;
+  font-size: 1.5rem;
+  background-color: #c02739;
+  background-image:
+    repeating-linear-gradient(45deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8) 100px,
+      transparent 0px,
+      transparent 200px),
+    repeating-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5) 100px,
+      transparent 0px,
+      transparent 200px);
+  display: grid;
+  place-items: center;
+  color: #dfdfdf;
+  margin-top: 0px !important;
+  text-align: center;
+  border-top: 5px solid white;
+  border-bottom: 0px;
+}
+
+.container-fluid {
+  background-color: black;
+  color: #dfdfdf;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.col {
+  width: 500px;
+  margin-left: 350px;
+}
+
+.copyright {
+  font-size: 1.0rem;
+  background-color: #c02739;
+  background-image:
+    repeating-linear-gradient(45deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8) 100px,
+      transparent 0px,
+      transparent 200px),
+    repeating-linear-gradient(-45deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5) 100px,
+      transparent 0px,
+      transparent 200px);
+  display: grid;
+  margin: 0;
+  place-items: center;
+  color: #dfdfdf;
+  text-align: center;
+  position: relative;
+  bottom: 0px !important;
+  height:70px;
+}
+
+.fa-twitter {
+  padding: 20px;
+}
+
+.USBlogo {
+  border: 4px solid white;
+  border-radius: 55% !important;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.USBlogo2 {
+  position: relative;
+  left: 60%;
+  border: 4px solid white;
+  border-radius: 55% !important;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.horn-logo {
+  position: absolute;
+  right: 30%;
+  border-radius: 10%;
+  border: 4px solid white;
+  width: 850px !important;
+}
+
+.mick {
+  position: absolute;
+  right: 15%;
+  top: 2200px;
+  transform: rotate(25deg);
+}
+
+.mj {
+  position: absolute;
+  left: 15%;
+  top: 2340px;
+  transform: rotate(335deg);
+}
+
+.navbar {
+  height: 140px;
+  border-bottom: 10px solid white;
+}
+
+.nav-link {
+  font-size: 30px;
+  padding: 300px;
+  font-weight: bold;
+}
+
+.col-12 {
+  margin-top: 10px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.terms-container {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+  padding: 100px !important;
+  background-color: #393e46;
+  width: 1000px;
+  border: 4px solid white;
+}
+
+.Overview {
+  text-align: left;
+}
+
+.logos {
+  margin-top: 50px !important;
+}
+
+.card {
+  border: 6px solid #393e46;
+}
+
+.sell-consign {
+  font-size: 1.35rem !important;
+}
+
+.case-breaking-div {
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.flame1 {
+  position: relative;
+  left: 480px !important;
+  transform: rotate(-25deg);
+}
+
+.flame2 {
+  position: relative;
+  left: 1225px !important;
+  bottom: 250px;
+  transform: rotate(25deg);
+}
+
+.flamegifs {
+  width: 0px;
+  height: 0px;
+}
+
+.qbgifs {
+  width: 0px;
+  height: 0px;
+}
+
+.rookiegifs {
+  width: 0px;
+  height: 0px;
+}
+
+.petey {
+  position: relative;
+  top:200px;
+}
+
+.danieljones {
+  position: relative;
+  left: 1350px !important;
+  bottom:300px;
+}
+
+.denzelmims {
+  width: 350px;
+}
+
+.ceedeelamb {
+  width: 350px;
+}
+
+.joeburrow {
+  position: relative;
+  width: 350px;
+  left: 1570px;
+  bottom: 700px;
+}
+
+.lavishka {
+  position: relative;
+  width: 350px;
+  left: 1570px;
+  bottom: 700px;
+}
+
+.ratedrookie {
+  position: relative;
+  width: 200px;
+  left:50px;
+}
+
+.panini {
+  position: relative;
+  left: 1300px;
+  top:50px;
+
+}
